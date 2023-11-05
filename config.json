@@ -1,0 +1,5 @@
+{
+  "video_path": "D:\\Music\\MV\\AronChupa - Little Swing  ft. Little Sis Nora.mp4",
+  "ffplay_path": "D:\\AZ\\ffmpeg-master-latest-win64-gpl-shared\\bin\\ffplay.exe",
+  "ffplay_cmd_config": " -loglevel quiet -sn -an"
+}
